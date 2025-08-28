@@ -21,6 +21,8 @@
 
 </div>
 
+> 文档：请参见 `docs/api.md` 获取完整的中文 API 文档（包含示例与使用说明）。
+
 ---
 
 ## ✨ Why OpenEvolve?
